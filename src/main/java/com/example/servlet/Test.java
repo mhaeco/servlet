@@ -24,7 +24,7 @@ public class Test extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.getWriter().append("Welcome to the server");
+		response.getWriter().append("Welcome to the server. Welcome to OpenShift");
 	}
 
 	/**
